@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdulrahman
 - 👀 I’m interested in Artificial intelligence and Machine learning
 - 🌱 I’m currently learning python and Machine learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me binturki.ai@gmail.com
 
 <!---
